@@ -6,6 +6,6 @@ This is my personal portfolio built using **Next.js 14**, **Tailwind CSS**, and 
 - Certifications and achievements
 - Interactive UI and animations
 
-🔗 [Live Site]([https://your-portfolio-link.com](https://chiragbehera.netlify.app/))
+🔗 [Live Site](https://chiragbehera.netlify.app/)
 
 📫 Let's connect: [LinkedIn](https://linkedin.com/in/chiragbehera)
